@@ -20,7 +20,7 @@ _Thanks for your patience! We'll do our best to address the isssue, if we can._
 
 OS:
 HoI4 version:
-Kaiserreich version:
+Fuhrerreich version:
 Using Steam?
 Were you in multiplayer?
 List other mods used (including FR Music mod):
