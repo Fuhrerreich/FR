@@ -22,11 +22,11 @@ OS:
 HoI4 version:
 Fuhrerreich version:
 Using Steam?
-Were you in multiplayer?
+Were you in multiplayer:
 List other mods used (including FR Music mod):
-Have you changed any files, outside of mods used?
+Have you changed any files, outside of mods used:
 Checksum (four-letter code at the bottom of your title menu):
-Which DLC expansions do you NOT have?
+Which DLC expansions do you NOT have:
 
 **Steps to reproduce:**
 
